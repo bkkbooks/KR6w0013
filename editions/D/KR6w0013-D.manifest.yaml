@@ -1,0 +1,458 @@
+canonical_identifier: bkk:krp/KR6w0013/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0013/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛般若波羅蜜經（註解）
+  identifiers:
+    krp: KR6w0013
+    cbeta: D13n8838
+    cbeta_old_id: D13n8838
+    authorityid: CA0008012
+    json_key: D8838
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D13/D13n8838.xml
+    old_id: D13n8838
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0013_000-D.yaml, hash: 'sha256:5d48fdd2becbde82f59f214373a6ea0a06059c38f36bf4c2d5ab75caf245ff42'}
+  - {seq: 1, filename: KR6w0013_001-D.yaml, hash: 'sha256:515e90f3db38b0264fb20925eb0579dff5ef1ccba478f829e4ae601dab3671fe'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0013_000-D.markers.yaml, hash: 'sha256:ed2998903d30569ccc33a0020d81b6a57f92d657c29d6536a50a79a4ec857f7d'}
+  - {seq: 1, role: markers, filename: assets/KR6w0013_001-D.markers.yaml, hash: 'sha256:0b159c6f08147a212ccd092969da1e63d86ee99c8fea465a69dd87afeddb5e3e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 23693
+  label: 金剛般若波羅蜜經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-1
+    span:
+    - body
+    - 32
+    - 32
+  label: 釋經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-2
+    span:
+    - body
+    - 917
+    - 917
+  label: 法會因由分第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-3
+    span:
+    - body
+    - 2321
+    - 2321
+  label: 善現起請分第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-4
+    span:
+    - body
+    - 3982
+    - 3982
+  label: 大乘正宗分第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-5
+    span:
+    - body
+    - 4714
+    - 4714
+  label: 妙行無住分第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-6
+    span:
+    - body
+    - 5218
+    - 5218
+  label: 如理實見分第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-7
+    span:
+    - body
+    - 5593
+    - 5593
+  label: 正信希有分第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-8
+    span:
+    - body
+    - 6549
+    - 6549
+  label: 無得無󵘸分第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-9
+    span:
+    - body
+    - 6909
+    - 6909
+  label: 依法出生分第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-10
+    span:
+    - body
+    - 7394
+    - 7394
+  label: 一相無相分第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-11
+    span:
+    - body
+    - 8468
+    - 8468
+  label: 莊嚴淨土分第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-12
+    span:
+    - body
+    - 9201
+    - 9201
+  label: 無為福勝分第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-13
+    span:
+    - body
+    - 10101
+    - 10101
+  label: 尊重正教分第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-14
+    span:
+    - body
+    - 10323
+    - 10323
+  label: 如法受持分第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-15
+    span:
+    - body
+    - 11775
+    - 11775
+  label: 離相寂㓕分第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-16
+    span:
+    - body
+    - 13620
+    - 13620
+  label: 持經功德分第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-17
+    span:
+    - body
+    - 14317
+    - 14317
+  label: 能淨業障分第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-18
+    span:
+    - body
+    - 15426
+    - 15426
+  label: 究竟無我分第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-19
+    span:
+    - body
+    - 16810
+    - 16810
+  label: 一體同觀分第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-20
+    span:
+    - body
+    - 17578
+    - 17578
+  label: 法界通化分第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-21
+    span:
+    - body
+    - 17775
+    - 17775
+  label: 離色離相分第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-22
+    span:
+    - body
+    - 18115
+    - 18115
+  label: 非󵘸所󵘸分第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-23
+    span:
+    - body
+    - 18500
+    - 18500
+  label: 無法可得分第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-24
+    span:
+    - body
+    - 18731
+    - 18731
+  label: 淨心行善分第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-25
+    span:
+    - body
+    - 18986
+    - 18986
+  label: 福智無比分第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-26
+    span:
+    - body
+    - 19329
+    - 19329
+  label: 化無所化分第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-27
+    span:
+    - body
+    - 19666
+    - 19666
+  label: 法身非相分第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-28
+    span:
+    - body
+    - 20117
+    - 20117
+  label: 無斷無㓕分第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-29
+    span:
+    - body
+    - 20444
+    - 20444
+  label: 不受不貪分第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-30
+    span:
+    - body
+    - 20772
+    - 20772
+  label: 威儀寂靜分第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-31
+    span:
+    - body
+    - 21007
+    - 21007
+  label: 一合相理分第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-32
+    span:
+    - body
+    - 21525
+    - 21525
+  label: 知見不生分第三十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-33
+    span:
+    - body
+    - 22077
+    - 22077
+  label: 應化非真分第三十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-34
+    span:
+    - body
+    - 22621
+    - 22621
+  label: 附文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-35
+    span:
+    - body
+    - 22621
+    - 22621
+  label: 般若無盡藏真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-36
+    span:
+    - body
+    - 22718
+    - 22718
+  label: 金剛心陀羅尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-37
+    span:
+    - body
+    - 22731
+    - 22731
+  label: 補闕真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-38
+    span:
+    - body
+    - 22781
+    - 22781
+  label: 普囬向真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-39
+    span:
+    - body
+    - 22806
+    - 22806
+  label: 後語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-40
+    span:
+    - body
+    - 23079
+    - 23079
+  label: 後跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-41
+    span:
+    - body
+    - 23358
+    - 23358
+  label: 經讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0013_D_001-mulu-42
+    span:
+    - body
+    - 23430
+    - 23430
+  label: 南無般若波羅蜜多心經
+  type: mulu
+  level: 1
+hash: sha256:5891280e973a761b32c6c56ce6af95f35cecdb4c418218fd931874b25fdf1a44
