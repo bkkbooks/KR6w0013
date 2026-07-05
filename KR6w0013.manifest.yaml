@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6w0013_000.yaml, hash: 'sha256:5d48fdd2becbde82f59f214373a6ea0a06059c38f36bf4c2d5ab75caf245ff42'}
-  - {seq: 1, filename: KR6w0013_001.yaml, hash: 'sha256:99bb5cca8080c4f55fd022d10418eded67c46363bdc581d58486d10ff8603190'}
+  - {seq: 1, filename: KR6w0013_001.yaml, hash: 'sha256:515e90f3db38b0264fb20925eb0579dff5ef1ccba478f829e4ae601dab3671fe'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6w0013_001.markers.yaml, hash: 'sha256:43a5f17f66e994bd591d92f4c54aad3e15426764ddab2c8c785288f0dbb6964e'}
+  - {seq: 0, role: markers, filename: assets/KR6w0013_000.markers.yaml, hash: 'sha256:062134e5423d16b0f7e84a6eeef23722ea644bf711221afdd1a8ef2a1763d27f'}
+  - {seq: 1, role: markers, filename: assets/KR6w0013_001.markers.yaml, hash: 'sha256:81534667f14a939afb2291c58b27209ca3349e7b38f181a742c30970661cebc4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -453,7 +454,4 @@ table_of_contents:
   label: 南無般若波羅蜜多心經
   type: mulu
   level: 1
-hash: sha256:40720d4ca2e4a33e3377b9ee3e321580eb62a1870372be8f0273d23f0da66a06
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c861992fee7a0dadea542feb37ab64927cd7b441c0d4ba97f8aa044a8708c4a3
