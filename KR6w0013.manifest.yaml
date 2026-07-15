@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6w0013/v1
 canonical_location: https://kanripo.org/bkk/KR6w0013/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛般若波羅蜜經（註解）
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6w0013_000.yaml, hash: 'sha256:5d48fdd2becbde82f59f214373a6ea0a06059c38f36bf4c2d5ab75caf245ff42'}
-  - {seq: 1, filename: KR6w0013_001.yaml, hash: 'sha256:515e90f3db38b0264fb20925eb0579dff5ef1ccba478f829e4ae601dab3671fe'}
+  - {seq: 1, filename: KR6w0013_001.yaml, hash: 'sha256:8bb317fc18c4baa5ebc9d66ef1f7897dcd2d454370b5105706db7ac5df886583'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6w0013_000.markers.yaml, hash: 'sha256:062134e5423d16b0f7e84a6eeef23722ea644bf711221afdd1a8ef2a1763d27f'}
-  - {seq: 1, role: markers, filename: assets/KR6w0013_001.markers.yaml, hash: 'sha256:81534667f14a939afb2291c58b27209ca3349e7b38f181a742c30970661cebc4'}
+  - {seq: 1, role: markers, filename: assets/KR6w0013_001.markers.yaml, hash: 'sha256:934e4fd8c4001f6f3d6f1d1af05ff6b582d561ff8881a438270db48f5cb428e5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -454,4 +454,7 @@ table_of_contents:
   label: 南無般若波羅蜜多心經
   type: mulu
   level: 1
-hash: sha256:c861992fee7a0dadea542feb37ab64927cd7b441c0d4ba97f8aa044a8708c4a3
+hash: sha256:96ec246886c50fb3195b5a6a5b2b0cb9eaece864691c5fbeec8dab1bcacc19ab
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
